@@ -11,7 +11,9 @@
   | 💼 Entry-Level Web & QA Developer
 </p>
 
----
+<p align="center">
+  <img src="Resources/dividers/cyber-divider.svg" width="85%" />
+</p>
 
 ### 🧠 Tech Stack & Tools  
 <p align="center">
@@ -35,7 +37,9 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </p>
 
----
+<p align="center">
+  <img src="Resources/dividers/cyber-divider.svg" width="85%" />
+</p>
 
 ### 🧩 Selected Projects
 | # | Project | Description | Tech Stack |
@@ -44,19 +48,25 @@
 | 2 | **File Encryption & Decryption (FED)** | Secure file handling platform with encryption/decryption for enterprise-level confidentiality. | Django, Python, AES, SQL |
 | 3 | **Tourism Villa Website (TVW)** | Responsive, modern static site for showcasing tourism villas with interactive JS features. | HTML, CSS, JavaScript |
 
----
+<p align="center">
+  <img src="Resources/dividers/cyber-divider.svg" width="85%" />
+</p>
 
 ### 🐍 My GitHub Contribution Snake
 <p align="center">
    <img src="https://raw.githubusercontent.com/Lucid-Lifo/Lucid-Lifo/output/snake-neon.svg?v=1" width="100%" />
 </p>
 
----
+<p align="center">
+  <img src="Resources/dividers/cyber-divider.svg" width="85%" />
+</p>
 
 ### 📖 About Me
 I’m an enthusiastic Web Developer and QA Tester dedicated to turning ideas into efficient software solutions. Currently pursuing my MCA, I build secure, responsive applications and continuously explore modern testing frameworks and development workflows.
 
----
+<p align="center">
+  <img src="Resources/dividers/cyber-divider.svg" width="85%" />
+</p>
 
 ### 📫 Connect with Me
 <p align="center">
@@ -64,5 +74,7 @@ I’m an enthusiastic Web Developer and QA Tester dedicated to turning ideas int
   <a href="mailto:allen.kurian@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
----
+<p align="center">
+  <img src="Resources/dividers/cyber-divider.svg" width="85%" />
+</p>
 
