@@ -2,6 +2,11 @@
 <div style="width:100vw; overflow:hidden; display:flex; justify-content:center;">
   <img src="Resources/gif.gif" style="width:100%; min-width:1200px;" />
 </div>
+<div align="center">
+  <img src="Resources/gif.gif" style="width:100%; max-width:900px; border-radius:14px; box-shadow:0 0 25px #7A4FFF;" />
+</div>
+
+
 
 
 <h1 align="center">
