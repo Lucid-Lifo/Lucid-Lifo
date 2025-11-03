@@ -10,4 +10,11 @@
     }
   </style>
 
-  <image href="Resources/gif.gif" width="100%" height="100%" class="glow" clip-path="url(#rounded)" preserveAspectRatio="xMidYMid slice
+  <image href="Resources/gif.gif" width="100%" height="100%" class="glow" clip-path="url(#rounded)" preserveAspectRatio="xMidYMid slice"/>
+  
+  <defs>
+    <clipPath id="rounded">
+      <rect x="0" y="0" width="100%" height="100%" rx="22" ry="22" />
+    </clipPath>
+  </defs>
+</svg>
