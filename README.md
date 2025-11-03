@@ -48,7 +48,7 @@
 
 ### 🐍 My GitHub Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Lucid-Lifo/Lucid-Lifo/output/snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/Lucid-Lifo/Lucid-Lifo/output/snake.svg?palette=github-dark" />
 </p>
 
 ---
