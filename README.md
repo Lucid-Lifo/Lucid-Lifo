@@ -6,7 +6,7 @@
 </h1>
 
 <p align="center">
-  📍 Kochi, Kerala, India  
+  📍 Wayanad, Kerala, India  
   | 🎓 MCA Student  
   | 💼 Entry-Level Web & QA Developer
 </p>
@@ -66,4 +66,3 @@ I’m an enthusiastic Web Developer and QA Tester dedicated to turning ideas int
 
 ---
 
-*Made with ❤️ and 🚀 – Welcome to my profile!*
