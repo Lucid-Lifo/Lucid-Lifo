@@ -19,25 +19,39 @@
 ## 🛠️ **Tech Stack**
 
 <p align="center">
-      <img src="https://img.shields.io/badge/Git-2C3E55?style=for-the-badge&logo=git&logoColor=white" alt="Java" />
-      <img src="https://img.shields.io/badge/Git-2C3E55?style=for-the-badge&logo=git&logoColor=white" alt="Selenium" />
-      <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-      <img src="https://img.shields.io/badge/SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="SQL" />
-      <img src="https://img.shields.io/badge/C%20Programming-FFC107?style=for-the-badge&logo=c&logoColor=white" alt="C Programming" />
-      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-      <img src="https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-      <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-      <img src="https://img.shields.io/badge/Canva-E91E63?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
-      <img src="https://img.shields.io/badge/Git-2C3E55?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-      <img src="https://img.shields.io/badge/Git-2C3E55?style=for-the-badge&logo=git&logoColor=white" alt="Laravel" />
-      <img src="https://img.shields.io/badge/Git-2C3E55?style=for-the-badge&logo=git&logoColor=white" alt="PHP" />
-      <img src="https://img.shields.io/badge/Git-2C3E55?style=for-the-badge&logo=git&logoColor=white" alt="Django" />
-      
+
+  <!-- Version Control -->
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+
+  <!-- Programming Languages -->
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C++-044F88?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+
+  <!-- Web Development -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+
+  <!-- Frameworks -->
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+
+  <!-- Databases -->
+  <img src="https://img.shields.io/badge/MySQL-005E8C?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/SQL-F29111?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" />
+
+  <!-- Testing -->
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
+
+  <!-- Design / Utilities -->
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
+
 </p>
+
 
 
 <!-- ## 📊 **GitHub Stats** -->
