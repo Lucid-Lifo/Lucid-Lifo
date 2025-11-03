@@ -1,25 +1,24 @@
-name: Generate Snake
+name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 */12 * * *"  # every 12 hours
+    - cron: "0 */12 * * *"
   workflow_dispatch:
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 2
     steps:
-      - name: Clone repo
+      - name: Checkout
         uses: actions/checkout@v3
 
-      - name: Generate snake
-        uses: Platane/snk@master
+      - name: Generate snake.svg
+        uses: Platane/snk@v3
         with:
           github_user_name: Lucid-Lifo
-          outputs: dist/snake.svg
+          svg_out_path: dist/snake.svg
 
-      - name: Upload to GitHub Pages
+      - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
