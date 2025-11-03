@@ -2,7 +2,7 @@
 
 ![](Resources/gif.gif)
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=30&color=00F7FF&center=true&vCenter=true&width=900&lines=%F0%9F%91%8B+Hello%2C+My+Name+is+Allen+Kurian+Thomas!;%F0%9F%A7%A0+Full+Stack+Developer+%7C+Software+Tester;%F0%9F%94%A7+Python+%7C+Java+%7C+SQL+%7C+Selenium;%F0%9F%93%88+Turning+Ideas+Into+Software!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=30&color=00F7FF&center=true&vCenter=true&width=900&lines=%F0%9F%91%8B+Hello%2C+My+Name+is+Allen+Kurian+Thomas!;%F0%9F%A7%A0+Full+Stack+Developer;%F0%9F%94%A7+Python+%7C+Java+%7C+SQL+%7C+Selenium;%F0%9F%A7%A0+QA+Enthusiast;%F0%9F%93%88+Turning+Ideas+Into+Software!" alt="Typing SVG" />
 </h1>
 
 
