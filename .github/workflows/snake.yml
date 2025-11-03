@@ -1,5 +1,8 @@
 name: Generate Snake Animation
 
+permissions:
+  contents: write
+
 on:
   schedule:
     - cron: "0 */12 * * *"
@@ -11,16 +14,16 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - name: Generate snake animation
+      - name: Generate the Snake
         uses: Platane/snk@v3
         with:
           github_user_name: "Lucid-Lifo"
-          outputs: dist/snake.svg   # ✅ correct for v3
+          outputs: dist/snake.svg
 
       - name: Deploy to GitHub Pages (output branch)
         uses: crazy-max/ghaction-github-pages@v3
         with:
-          target_branch: output      # ✅ auto-creates branch if missing
-          build_dir: dist            # ✅ now exists because dist/snake.svg was generated
+          target_branch: output
+          build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
