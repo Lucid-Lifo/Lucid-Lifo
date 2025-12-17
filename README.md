@@ -10,7 +10,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=800&color=7A4FFF&center=true&vCenter=true&width=1000&lines=👋+Hello%2C+I'm+Allen+Kurian+Thomas!;Full+Stack+Developer+%7C+Software+Tester;Building+Secure+and+Reliable+Applications;Always+Learning+Always+Improving+🚀" alt="Typing SVG" />
 </h1>
 <p align="center">
-  📍 Wayanad, Kerala, India  
+  📍 Kerala, India  
   | 🎓 MCA Student  
   | 💼 Entry-Level Web & QA Developer
 </p>
