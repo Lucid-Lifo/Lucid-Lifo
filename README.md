@@ -10,9 +10,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=800&color=7A4FFF&center=true&vCenter=true&width=1000&lines=👋+Hello%2C+I'm+Allen+Kurian+Thomas!;Full+Stack+Developer+%7C+Software+Tester;Building+Secure+and+Reliable+Applications;Always+Learning+Always+Improving+🚀" alt="Typing SVG" />
 </h1>
 <p align="center">
-  📍 Kerala, India  
-  | 🎓 MCA Student  
-  | 💼 Entry-Level Web & QA Developer
+  📍 Kerala, India 
+  | 💼 Software engineer @ TechySpot
 </p>
 
 <p align="center">
@@ -27,7 +26,6 @@
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/C++-044F88?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
@@ -66,7 +64,7 @@
 </p>
 
 ### 📖 About Me
-I’m an enthusiastic Web Developer and QA Tester dedicated to turning ideas into efficient software solutions. Currently pursuing my MCA, I build secure, responsive applications and continuously explore modern testing frameworks and development workflows.
+I’m an enthusiastic Web Developer and QA Tester dedicated to turning ideas into efficient software solutions. Currently Software Engineer at TechySpot, I build secure, responsive applications and continuously explore modern testing frameworks and development workflows.
 
 <p align="center">
   <img src="Resources/dividers/cyber-divider.svg" width="85%" />
